@@ -1,0 +1,3 @@
+[submodule "tarea2/clasificacion"]
+	path = tarea2/clasificacion
+	url = https://github.com/ucvia/ml-tarea2B-knn-svm.git

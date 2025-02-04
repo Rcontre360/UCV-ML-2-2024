@@ -1,0 +1,12 @@
+pillow
+numpy
+scipy
+pandas
+tensorflow
+keras
+opencv-python
+######## AGREGAR TUS LIBRERIAS EN REQUIREMENTS-HW ########
+jupyter
+ipykernel
+scikit-learn
+######## AGREGAR TUS LIBRERIAS EN REQUIREMENTS-HW ########
