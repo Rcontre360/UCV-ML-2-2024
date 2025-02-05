@@ -9,4 +9,5 @@ opencv-python
 jupyter
 ipykernel
 scikit-learn
+joblib
 ######## AGREGAR TUS LIBRERIAS EN REQUIREMENTS-HW ########
