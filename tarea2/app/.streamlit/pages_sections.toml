@@ -1,0 +1,27 @@
+[[pages]]
+name = "Instrucciones"
+icon = "🎈️"
+is_section = true
+
+[[pages]]
+path = "sections/01_A_Jugar.py"
+name = "A jugar"
+icon = ":books:"
+
+[[pages]]
+name = "Código"
+icon = "🎈️"
+is_section = true
+
+# Pages after an `is_section = true` will be indented
+[[pages]]
+path = "sections/02_Canvas.py"
+name = "Another page"
+icon = "💪"
+
+
+# Pages after an `is_section = true` will be indented
+[[pages]]
+path = "sections/03_Cargar_modelos.py"
+name = "Another page"
+icon = "💪"
