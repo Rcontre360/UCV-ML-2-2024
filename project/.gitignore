@@ -1,3 +1,4 @@
 env
-tmp/fhe_models/*
+tmp/*
 .artifacts/*
+app/.DS_Store
