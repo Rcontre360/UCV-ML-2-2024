@@ -207,10 +207,9 @@ def play_canvas():
     )
 
     with operacion:
-        st.header("Sección de Número")
+        st.header("Operacion")
         # Do something interesting with the image data and paths
         if number_1.image_data is not None:
-            st.write("Operacion: ")
 
             number_1_img, _ = transform_image_to_mnist(number_1.image_data)
             exponent_1_img, _ = transform_image_to_mnist(exponent_1.image_data)
